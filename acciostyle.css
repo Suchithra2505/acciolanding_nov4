@@ -38,6 +38,9 @@
         background-color: green;
         color:white;
       }
+      td:hover {
+        background: #f4aaaa;
+      }
     
     nav>ul>li>img{
     width: 1.125rem;
